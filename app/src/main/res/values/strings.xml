@@ -1,0 +1,23 @@
+<!--<resources>-->
+<!--    <string name="app_name">MovieSearch</string>-->
+<!--</resources>-->
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Movie Finder</string>
+
+    <!-- Main Screen -->
+    <string name="main_screen_title">Trending Movies</string>
+    <string name="loading_message">Loading...</string>
+    <string name="error_message">An error occurred. Please try again.</string>
+    <string name="unknown_movie_title">Unknown</string>
+
+    <!-- Info Screen -->
+    <string name="info_screen_title">Movie App</string>
+    <string name="info_screen_developer">Developed by Mandy</string>
+
+    <!-- Movie Item -->
+    <string name="movie_overview">Overview: %s</string>
+
+    <!-- Navigation -->
+    <string name="info_screen_nav">Info</string>
+</resources>
